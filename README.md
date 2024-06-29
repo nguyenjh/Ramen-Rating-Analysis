@@ -1,20 +1,18 @@
-This is your group repo for your final project for COGS108.
+# Data Science Final Group Project for COGS 108 (Data Science in Practice).
 
-This repository is private, and is only visible to the course instructors and your group mates; it is not visible to anyone else.
+Feel free to click on `FinalProject_group020.ipynb` to view our group's project in detail.
 
-Template notebooks for each component are provided. Only work on the notebook prior to its due date. After each submission is due, move onto the next notebook (For example, after the proposal is due, start working in the Data Checkpoint notebook). 
+# Introduction
+This research aims to identify the factors that contribute to the popularity of certain instant ramen brands. Instant ramen, known for its convenience and comfort, is a staple food for many. By understanding the key elements that make some ramen brands highly rated, manufacturers can improve their products.
 
-This repository will be frozen on the final project due date. No further changes can be made after that time.
+We analyzed three datasets with a total of 33,393 observations, focusing on aspects like brand, variety, style, country, and stars. Our findings revealed that the top ramen-producing countries are predominantly Asian, with the United States being the exception. High-rated brands (4 stars and above) come from countries like France, Malaysia, Cambodia, Indonesia, and Singapore.
 
-Your project proposal and final project will be graded based solely on the corresponding project notebooks in this repository.
+Using TF/IDF, we identified common flavor descriptors such as spicy, soup, curry, chicken, and sauce, which are prevalent among popular ramen varieties. Additionally, we examined the correlation between packaging and popularity, concluding that "pack" style packaging is the most favored.
 
-Template Jupyter notebooks have been included, with your group number replacing the XXX in the following file names. For each due date, make sure you have a notebook present in this repository by each due date with the following name (where XXX is replaced by your group number):
+Our research explores how brand origin, flavor variety, and packaging impact ramen ratings, providing insights into consumer preferences in the ramen noodles market.
 
-- `ProjectProposal_groupXXX.ipynb`
-- `DataCheckpoint_groupXXX.ipynb`
-- `EDACheckpoint_groupXXX.ipynb`
-- `FinalProject_groupXXX.ipynb`
 
-This is *your* repo. You are free to manage the repo as you see fit, edit this README, add data files, add scripts, etc. So long as there are the four files above on due dates with the required information, the rest is up to you all. 
-
-Also, you are free and encouraged to share this project after the course and to add it to your portfolio. Just be sure to fork it to your GitHub at the end of the quarter!
+---
+This repository was made frozen on the final project due date (June 12, 2024). No further changes were made after that time.
+<br>
+__*Via the instructor's discretation, we are free and encouraged to share this project after the course and to add it to our portfolio.*__
