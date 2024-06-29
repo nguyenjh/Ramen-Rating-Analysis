@@ -1,4 +1,4 @@
-# Data Science Final Group Project for COGS 108 (Data Science in Practice).
+# Data Science Final Group Project for COGS 108 (Data Science in Practice)
 
 Feel free to click on `FinalProject_group020.ipynb` to view our group's project in detail.
 
